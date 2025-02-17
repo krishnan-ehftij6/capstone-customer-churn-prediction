@@ -24,4 +24,22 @@ To run this project locally, install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+## How to Use 
+1 **Clone the Repository**
+```bash
+git clone https:///github.com/krishnan-ehftij6/capstone-customer-churn-prediction.git  
+   cd capstone-customer-churn-prediction
+```
+2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+3. Run the Jupyter Notebook:
+```bash
+jupyter notebook
+```
+4. Interpret Results
+Model accuracy and performance metrics will be displayed
+Check confusion matrix and classification reports
+
 
